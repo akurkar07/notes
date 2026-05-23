@@ -1104,6 +1104,63 @@ Why useful:
 - the exact concrete class can be hidden;
 - creation can be counted, logged, configured, or changed later.
 
+### Model-View Controller (MVC)
+- separates a program into three parts:
+    - model: stores and manages data/business logic
+    - view: displays information to the user
+    - controller: handles user input and coordinates between Model and View
+- example:
+    
+    ```java
+    // model - stores the actual chess board and rules
+    class ChessModel {
+        private String[][] board = new String[8][8];
+    
+        public void movePiece(int fromRow, int fromCol, int toRow, int toCol) {
+            board[toRow][toCol] = board[fromRow][fromCol];
+            board[fromRow][fromCol] = null;
+        }
+    
+        public String getPiece(int row, int col) {
+            return board[row][col];
+        }
+    }
+    
+    // view - displays the board
+    class ChessView {
+        public void displayBoard(ChessModel model) {
+            for (int row = 0; row < 8; row++) {
+                for (int col = 0; col < 8; col++) {
+                    String piece = model.getPiece(row, col);
+    
+                    if (piece == null) {
+                        System.out.print(". ");
+                    } else {
+                        System.out.print(piece + " ");
+                    }
+                }
+                System.out.println();
+            }
+        }
+    }
+    
+    // controller - handles the user action and handles model/view 
+    class ChessController {
+        private ChessModel model;
+        private ChessView view;
+    
+        public ChessController(ChessModel model, ChessView view) {
+            this.model = model;
+            this.view = view;
+        }
+    
+        public void makeMove(int fromRow, int fromCol, int toRow, int toCol) {
+            model.movePiece(fromRow, fromCol, toRow, toCol);
+            view.displayBoard(model);
+        }
+    }
+    ```
+
 ## 21. Class Diagrams
 
 The slides use simple class diagrams. A class box normally has three parts:
