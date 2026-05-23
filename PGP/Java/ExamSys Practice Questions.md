@@ -69,7 +69,7 @@ class Bear extends Animal {
 
 Consider the simplified class diagram, where `A` is a class. Select all true statements.
 
-![Q5 class diagram](<Q05-class-diagram.png>)
+![Q5 class diagram](<ExamSys Assets/Q05-class-diagram.png>)
 
 1. The Java code may somewhere include `D extends B`.
 2. The Java code may somewhere include `D implements B`.
@@ -217,7 +217,7 @@ For the same `multiply` methods, select all true statements.
 
 This class diagram illustrates one of the design patterns from the course. The class names have been replaced with `CLASS1` and `CLASS2`. What is the pattern?
 
-![Q16 design pattern A](<Q16-design-pattern-a.png>)
+![Q16 design pattern A](<ExamSys Assets/Q16-design-pattern-a.png>)
 
 **Answer:** Factory pattern.
 
@@ -227,7 +227,7 @@ This class diagram illustrates one of the design patterns from the course. The c
 
 This class diagram illustrates one design pattern. The class name has been replaced by `CLASSNAME`. What is the pattern?
 
-![Q17 design pattern B](<Q17-design-pattern-b.png>)
+![Q17 design pattern B](<ExamSys Assets/Q17-design-pattern-b.png>)
 
 **Answer:** Observer pattern.
 
@@ -237,7 +237,7 @@ This class diagram illustrates one design pattern. The class name has been repla
 
 This class diagram illustrates one design pattern. The class name has been replaced by `CLASSNAME`. What is the pattern?
 
-![Q18 design pattern C](<Q18-design-pattern-c.png>)
+![Q18 design pattern C](<ExamSys Assets/Q18-design-pattern-c.png>)
 
 **Answer:** Strategy pattern.
 
