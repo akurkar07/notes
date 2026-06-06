@@ -11,6 +11,10 @@ properties:
     displayName: Subgenre
   Author:
     displayName: Author
+  Series:
+    displayName: Series
+  Series Order:
+    displayName: Series Order
   Status:
     displayName: Status
 views:

@@ -10,6 +10,10 @@ properties:
     displayName: Subgenre
   Author:
     displayName: Author
+  Series:
+    displayName: Series
+  Series Order:
+    displayName: Series Order
   Status:
     displayName: Status
 views:
@@ -17,22 +21,23 @@ views:
     name: To Read
     filters:
       and:
-        - Status != "Completed"
+        - Status == "Not Started"
     groupBy:
       property: Genre
       direction: ASC
     order:
       - file.name
-      - Genre
       - Subgenre
       - Author
       - Status
     sort:
-      - property: Status
-        direction: DESC
       - property: Subgenre
         direction: ASC
+      - property: Status
+        direction: DESC
       - property: file.name
+        direction: ASC
+      - property: Series Order
         direction: ASC
   - type: table
     name: Completed
@@ -44,15 +49,18 @@ views:
       direction: ASC
     order:
       - file.name
-      - Genre
       - Subgenre
       - Author
-      - Status
     sort:
       - property: Subgenre
         direction: ASC
       - property: file.name
         direction: ASC
+      - property: Series Order
+        direction: ASC
+    columnSize:
+      note.Series: 147
+      note.Series Order: 1
   - type: table
     name: All Books
     groupBy:
@@ -60,16 +68,15 @@ views:
       direction: ASC
     order:
       - file.name
-      - Genre
       - Subgenre
       - Author
       - Status
     sort:
-      - property: Genre
-        direction: ASC
       - property: Subgenre
+        direction: ASC
+      - property: Series Order
+        direction: ASC
+      - property: Genre
         direction: ASC
       - property: file.name
         direction: ASC
-  - type: cards
-    name: View

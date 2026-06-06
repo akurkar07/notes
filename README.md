@@ -4,12 +4,13 @@ This repository is an Obsidian vault containing university notes, revision guide
 
 ## Main Areas
 
-- [CS](CS/CS.md) - broader computer science notes, including year-based module notes and project ideas.
-- [ISE](ISE/Index.md) - `COMP1003` software engineering notes, revision guides, required reading notes, and exam prep.
-- [Linear Algebra](Linear%20Algebra/Index.md) - chapter notes, concept pages, worked examples, and extra mock-exam practice.
-- [Databases](Databases/Index.md) - database notes and exam-focused revision material.
-- [PGP Java](PGP/Java/Java%20and%20OO%20Exam%20Guide.md) - Java and object-oriented programming notes.
-- [PGP Haskell](PGP/Haskell/Functional%20Programming%20Exam%20Guide.md) - functional programming and Haskell notes.
+- [CS](CS/Index.md) - broader computer science notes, organised by year and semester.
+- [Projects](Projects/Index.md) - project notes and project ideas kept separate from course notes.
+- [ISE](CS/Y1S2/ISE/Index.md) - `COMP1003` software engineering notes, revision guides, required reading notes, and exam prep.
+- [Linear Algebra](CS/Y1S2/Linear%20Algebra/Index.md) - chapter notes, concept pages, worked examples, and extra mock-exam practice.
+- [Databases](CS/Y1S2/Databases/Index.md) - database notes and exam-focused revision material.
+- [PGP Java](Java%20and%20OO%20Exam%20Guide.md) - Java and object-oriented programming notes.
+- [PGP Haskell](Functional%20Programming%20Exam%20Guide.md) - functional programming and Haskell notes.
 - [Essays](Essays/Index.md) - essay drafts and writing pieces.
 - [Notion](Notion) - exported planning, reading-list, and task-tracker pages.
 
