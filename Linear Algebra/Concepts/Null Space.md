@@ -15,9 +15,9 @@ If
 $$
 A=
 \begin{pmatrix}
-1 & 1\\
-1 & 1\\
-1 & 1
+1 & 2 & -1 & 0\\
+2 & 4 & 1 & 3\\
+0 & 0 & 3 & 3
 \end{pmatrix},
 $$
 
@@ -25,34 +25,66 @@ then row reducing gives
 
 $$
 \begin{pmatrix}
-1 & 1\\
-1 & 1\\
-1 & 1
+1 & 2 & -1 & 0\\
+2 & 4 & 1 & 3\\
+0 & 0 & 3 & 3
 \end{pmatrix}
 \xrightarrow{\text{RREF}}
 \begin{pmatrix}
-1 & 1\\
-0 & 0\\
-0 & 0
+1 & 2 & 0 & 1\\
+0 & 0 & 1 & 1\\
+0 & 0 & 0 & 0
 \end{pmatrix}.
 $$
 
 So the equation $A\mathbf{x}=0$ becomes
 
 $$
-x+y=0,
+x_1+2x_2+x_4=0,
+$$
+
+$$
+x_3+x_4=0.
+$$
+
+The pivot variables are $x_1$ and $x_3$. The free variables are $x_2$ and $x_4$.
+
+Let
+
+$$
+x_2=s,\qquad x_4=t.
+$$
+
+Then
+
+$$
+x_1=-2s-t,
+\qquad
+x_3=-t.
 $$
 
 which means
 
 $$
 \begin{pmatrix}
-x\\
-y
+x_1\\
+x_2\\
+x_3\\
+x_4
 \end{pmatrix}
 =
-y
+s
 \begin{pmatrix}
+-2\\
+1\\
+0\\
+0
+\end{pmatrix}
++
+t
+\begin{pmatrix}
+-1\\
+0\\
 -1\\
 1
 \end{pmatrix}.
@@ -65,38 +97,50 @@ $$
 \operatorname{Span}
 \left\{
 \begin{pmatrix}
+-2\\
+1\\
+0\\
+0
+\end{pmatrix},
+\begin{pmatrix}
+-1\\
+0\\
 -1\\
 1
 \end{pmatrix}
 \right\}.
 $$
 
-This is a line in $\mathbb{R}^2$.
+This is a two-dimensional subspace of $\mathbb{R}^4$.
 
 ## Why It Matters
 
 The null space is a [[Subspace|subspace]] and describes all homogeneous solutions of a matrix equation.
 
-In the example above, the null space is a line in $\mathbb{R}^2$. So:
+In the example above, the null space is a two-dimensional subspace of $\mathbb{R}^4$. So:
 
 - if
   $$
   \mathbf{x}=
   \begin{pmatrix}
-  -2\\
-  2
+  -3\\
+  1\\
+  -1\\
+  1
   \end{pmatrix},
   $$
-  then $\mathbf{x}$ lies on that line, so $A\mathbf{x}=0$
+  then $\mathbf{x}$ lies in that null space, so $A\mathbf{x}=0$
 - if
   $$
   \mathbf{x}=
   \begin{pmatrix}
   1\\
+  0\\
+  0\\
   0
   \end{pmatrix},
   $$
-  then $\mathbf{x}$ does not lie on that line, so $A\mathbf{x}\neq 0$
+  then $\mathbf{x}$ does not lie in that null space, so $A\mathbf{x}\neq 0$
 
 So the null space answers the question: which vectors $\mathbf{x}$ get sent to zero by the matrix $A$?
 

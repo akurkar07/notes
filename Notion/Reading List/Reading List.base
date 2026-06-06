@@ -21,3 +21,10 @@ views:
       - Category
       - Author
       - Status
+    sort:
+      - property: Status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Rating
+        direction: DESC

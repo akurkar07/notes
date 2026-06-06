@@ -2,6 +2,11 @@
 
 This section collects notes, worked examples, concept pages, and diagrams for the textbook.
 
+## Practice
+
+- [Mock Exam - Additional Practice](Mock%20Exam%20-%20Additional%20Practice.md)
+- [Mock Exam - Fresh Practice](Mock%20Exam%20-%20Fresh%20Practice.md)
+
 ## Chapters
 
 ### Chapter 1
@@ -89,27 +94,38 @@ This section collects notes, worked examples, concept pages, and diagrams for th
 - [Subspace](Concepts/Subspace.md)
 - [Homogeneous System](Concepts/Homogeneous%20System.md)
 - [Linear Independence](Concepts/Linear%20Independence.md)
+- [Linearly Dependent](Concepts/Linearly%20Dependent.md)
 - [Column Space](Concepts/Column%20Space.md)
+- [Row Space](Concepts/Row%20Space.md)
 - [Null Space](Concepts/Null%20Space.md)
 - [Basis](Concepts/Basis.md)
 - [Dimension](Concepts/Dimension.md)
 - [B-coordinates](Concepts/B-coordinates.md)
+- [Coordinate Vector](Concepts/Coordinate%20Vector.md)
 - [Rank](Concepts/Rank.md)
 - [Nullity](Concepts/Nullity.md)
 - [Matrix Transformation](Concepts/Matrix%20Transformation.md)
+- [Standard Matrix](Concepts/Standard%20Matrix.md)
 - [Domain](Concepts/Domain.md)
 - [Codomain](Concepts/Codomain.md)
 - [Range](Concepts/Range.md)
+- [Image](Concepts/Image.md)
 - [One-to-one Transformation](Concepts/One-to-one%20Transformation.md)
 - [Onto Transformation](Concepts/Onto%20Transformation.md)
+- [Isomorphism](Concepts/Isomorphism.md)
 - [Linear Transformation](Concepts/Linear%20Transformation.md)
 - [Inverse Matrix](Concepts/Inverse%20Matrix.md)
+- [Identity Matrix](Concepts/Identity%20Matrix.md)
+- [Zero Matrix](Concepts/Zero%20Matrix.md)
+- [Change-of-Basis Matrix](Concepts/Change-of-Basis%20Matrix.md)
 - [Kernel](Concepts/Kernel.md)
-- [Grassmann's Formula](Concepts/Grassmann's%20Formula.md)
+- [Grassmann's Formula](Concepts/Grassmann_s%20Formula.md)
 - [Determinant](Concepts/Determinant.md)
+- [Transpose](Concepts/Transpose.md)
 - [Trace](Concepts/Trace.md)
 - [Minor](Concepts/Minor.md)
 - [Cofactor](Concepts/Cofactor.md)
+- [Adjugate Matrix](Concepts/Adjugate%20Matrix.md)
 - [Eigenvalue](Concepts/Eigenvalue.md)
 - [Eigenvector](Concepts/Eigenvector.md)
 - [Algebraic Multiplicity](Concepts/Algebraic%20Multiplicity.md)
@@ -121,13 +137,18 @@ This section collects notes, worked examples, concept pages, and diagrams for th
 - [Stochastic Matrix](Concepts/Stochastic%20Matrix.md)
 - [Steady State](Concepts/Steady%20State.md)
 - [Dot Product](Concepts/Dot%20Product.md)
+- [Norm](Concepts/Norm.md)
+- [Unit Vector](Concepts/Unit%20Vector.md)
 - [Orthogonality](Concepts/Orthogonality.md)
 - [Orthogonal Complement](Concepts/Orthogonal%20Complement.md)
 - [Orthogonal Projection](Concepts/Orthogonal%20Projection.md)
 - [Orthogonal Set](Concepts/Orthogonal%20Set.md)
+- [Orthogonal Basis](Concepts/Orthogonal%20Basis.md)
 - [Orthonormal Set](Concepts/Orthonormal%20Set.md)
 - [Gram-Schmidt Process](Concepts/Gram-Schmidt%20Process.md)
 - [Least Squares](Concepts/Least%20Squares.md)
+- [Normal Equations](Concepts/Normal%20Equations.md)
+- [Projection Matrix](Concepts/Projection%20Matrix.md)
 
 ## Topics Covered
 
