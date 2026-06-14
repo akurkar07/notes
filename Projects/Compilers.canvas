@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d18b259e634c4760","type":"file","file":"Projects/Compilers.md","x":-1060,"y":-1040,"width":340,"height":400},
+		{"id":"6897f6a293b60881","type":"file","file":"Projects/Pascal-Like Interpreter Project/Pascal-Like Interpreter Project.md","x":-1090,"y":140,"width":400,"height":400},
+		{"id":"8d465d0cf8b6c37e","x":-580,"y":140,"width":400,"height":400,"type":"file","file":"Projects/Pascal-Like Interpreter Project/01 Overview and Pipeline.md"},
+		{"id":"b6eb8f5c8714990d","type":"file","file":"Projects/Pascal-Like Interpreter Project.md","x":-1090,"y":-480,"width":400,"height":400},
+		{"id":"a783f1022572a9f8","x":-60,"y":140,"width":400,"height":400,"type":"file","file":"Projects/Pascal-Like Interpreter Project/02 Lexer.md"}
+	],
+	"edges":[
+		{"id":"9016e9d8b0b567e6","fromNode":"d18b259e634c4760","fromSide":"bottom","toNode":"b6eb8f5c8714990d","toSide":"top"},
+		{"id":"c29784a367069881","fromNode":"b6eb8f5c8714990d","fromSide":"bottom","toNode":"6897f6a293b60881","toSide":"top"},
+		{"id":"57defc838f3dba16","fromNode":"b6eb8f5c8714990d","fromSide":"bottom","toNode":"8d465d0cf8b6c37e","toSide":"top"},
+		{"id":"d70821eacbc06939","fromNode":"b6eb8f5c8714990d","fromSide":"bottom","toNode":"a783f1022572a9f8","toSide":"top"}
+	]
+}

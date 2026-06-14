@@ -1,0 +1,82 @@
+filters:
+  and:
+    - note["base"] == link("Reading List.base")
+properties:
+  file.name:
+    displayName: Title
+  Genre:
+    displayName: Genre
+  Subgenre:
+    displayName: Subgenre
+  Author:
+    displayName: Author
+  Series:
+    displayName: Series
+  Series Order:
+    displayName: Series Order
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: To Read
+    filters:
+      and:
+        - Status == "Incomplete"
+    groupBy:
+      property: Genre
+      direction: ASC
+    order:
+      - file.name
+      - Subgenre
+      - Author
+      - Status
+    sort:
+      - property: Subgenre
+        direction: ASC
+      - property: Status
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: Series Order
+        direction: ASC
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - Status == "Completed"
+    groupBy:
+      property: Genre
+      direction: ASC
+    order:
+      - file.name
+      - Subgenre
+      - Author
+    sort:
+      - property: Subgenre
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Series Order
+        direction: ASC
+    columnSize:
+      note.Series: 147
+      note.Series Order: 1
+  - type: table
+    name: All Books
+    groupBy:
+      property: Genre
+      direction: ASC
+    order:
+      - file.name
+      - Subgenre
+      - Author
+      - Status
+    sort:
+      - property: Subgenre
+        direction: ASC
+      - property: Series Order
+        direction: ASC
+      - property: Genre
+        direction: ASC
+      - property: file.name
+        direction: ASC

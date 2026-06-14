@@ -11,8 +11,8 @@ Add your weekly to-do’s. You can always add more by typing `/to-do` in an empt
 <!-- Column 1 -->
 ###  Mon
 
-- [ ] 
-- [ ] 
+- [x] 
+- [x] 
 - [ ] 
 
 <!-- Column 2 -->
@@ -25,7 +25,7 @@ Add your weekly to-do’s. You can always add more by typing `/to-do` in an empt
 <!-- Column 3 -->
 ###  Wed
 
-- [ ] 
+- [x] 
 - [ ] 
 - [ ] 
 
