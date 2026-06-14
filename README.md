@@ -6,6 +6,7 @@ This repository is an Obsidian vault containing university notes, revision guide
 
 - [CS](CS/Index.md) - broader computer science notes, organised by year and semester.
 - [Projects](Projects/Index.md) - project notes and project ideas kept separate from course notes.
+- [Opportunities](Opportunities/Index.md) - Internships, Spring/Insight Weeks, Graduate Schemes, Hackathons, etc.
 - [ISE](CS/Y1S2/ISE/Index.md) - `COMP1003` software engineering notes, revision guides, required reading notes, and exam prep.
 - [Linear Algebra](CS/Y1S2/Linear%20Algebra/Index.md) - chapter notes, concept pages, worked examples, and extra mock-exam practice.
 - [Databases](CS/Y1S2/Databases/Index.md) - database notes and exam-focused revision material.
