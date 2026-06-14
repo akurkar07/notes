@@ -21,7 +21,7 @@ views:
     name: To Read
     filters:
       and:
-        - Status == "Not Started"
+        - Status == "Incomplete"
     groupBy:
       property: Genre
       direction: ASC

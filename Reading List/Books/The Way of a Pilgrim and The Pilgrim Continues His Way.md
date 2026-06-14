@@ -1,11 +1,10 @@
 ---
 base: "[[Reading List.base]]"
 Genre: Nonfiction
-Subgenre: Technology and Society
-Author: Adam Aleksic
+Subgenre: Spirituality
+Author: ""
 Status: Not Started
 ---
 ## Notes
 
 -
-
