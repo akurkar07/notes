@@ -4,7 +4,7 @@ This internship was obtained via the Nottingham Internship Scheme. [Documentatio
 
 ## Forefront & Process
 
-On April 1 2026, the Nottingham Internship Scheme came out for the 25/26 cohort, coming with a lot of internships - 67, to be exact. [The list is here.](#List) But if you want it to be computer science related, [here is the computer science related roles.](#CSList)
+On April 1 2026, the Nottingham Internship Scheme came out for the 25/26 cohort, coming with a lot of internships - 67, to be exact. [The list is here.](#List) But if you want it to be computer science related, [here is the computer science related roles.](../uoninternship2026.md)
 
 I had only applied to 1 internship for the Nottingham Internship Scheme - Classroom 42's "Full Stack Developer Internship". 
 I handed out my CV and Cover letter on April 12, 2026. While this was late, I managed to get through. What I had to do next was to do a project in 3 days, in which I would be tested by the web developer, Haider.
