@@ -24,6 +24,14 @@ cover: "[[cs.jpeg]]"
 - [[Y1S2/Linear Algebra/README|COMP1043 Maths 2]]
 - [[Y1S2/FAI/README|COMP1008 Fundamentals of AI]]
 
+## Year 2
+
+### Semester 2
+
+- [[Y2S2/AI Methods (10 Credits)/README|AI Methods]]
+- [[Y2S2/Distributed Systems/README|Distributed Systems]]
+- [[Y2S2/Image Processing/README|Image Processing]]
+
 ## Related
 
 - [[../Projects/README|Projects]]
