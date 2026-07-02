@@ -15,7 +15,7 @@ This repository is an Obsidian vault containing university notes, revision guide
 - [AI Methods](<CS/Y2S2/AI Methods (10 Credits)/README.md>) - heuristic search, metaheuristics, evolutionary algorithms, and hyper-heuristics.
 - [Image Processing](<CS/Y2S2/Image Processing/README.md>) - digital images, filtering, morphology, edges, segmentation, and coursework notes.
 - [Distributed Systems](<CS/Y2S2/Distributed Systems/README.md>) - distributed systems lecture notes and slide index.
-- [Essays](Essays/README.md) - essay drafts and writing pieces.
+- [My Notes](../mynotes/README.md) - personal reading, music, and essay notes moved into the sibling `mynotes` vault.
 - [Notion](Notion) - exported planning, reading-list, and task-tracker pages.
 
 ## Current Study Notes
