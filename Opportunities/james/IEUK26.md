@@ -1,3 +1,3 @@
 # IEUK 2026
 
-Will update later...
+barely participated in this LOL
