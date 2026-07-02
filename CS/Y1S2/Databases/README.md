@@ -4,7 +4,7 @@ Start here:
 - [COMP1004 Database Exam Guide.md](<COMP1004 Database Exam Guide.md>) - slide-backed exam notes covering definitions, ERD mapping, normalisation, SQL DDL, and SQL DML.
 - [SQL and ERD Comprehensive Guide.md](<SQL and ERD Comprehensive Guide.md>) - detailed guide to ER modelling, ERD mapping, SQL DDL, and SQL DML.
 - [Condensed Database Notes.md](<Condensed Database Notes.md>) - main overview of the first four database lectures.
-- [Revision Notes/00 - Source Index.md](<CS/Y1S2/Databases/Revision Notes/00 - Source Index.md>) - citation key for the lecture slides.
+- [Revision Notes/00 - Source Index.md](<Revision Notes/00 - Source Index.md>) - citation key for the lecture slides.
 - [Lecture Slides](<Lecture Slides>) - original PDFs copied from Downloads.
 
 ## Folder Map
@@ -13,10 +13,10 @@ Start here:
 
 Contains the four database lecture PDFs:
 
-1. [01 - Introduction to Databases.pdf](<01 - Introduction to Databases.pdf>)
-2. [02 - ERD Mapping and Normalisation.pdf](<02 - ERD Mapping and Normalisation.pdf>)
-3. [03 - SQL DDL.pdf](<03 - SQL DDL.pdf>)
-4. [04 - SQL DML.pdf](<04 - SQL DML.pdf>)
+1. [01 - Introduction to Databases.pdf](<Lecture Slides/01 - Introduction to Databases.pdf>)
+2. [02 - ERD Mapping and Normalisation.pdf](<Lecture Slides/02 - ERD Mapping and Normalisation.pdf>)
+3. [03 - SQL DDL.pdf](<Lecture Slides/03 - SQL DDL.pdf>)
+4. [04 - SQL DML.pdf](<Lecture Slides/04 - SQL DML.pdf>)
 
 Use this folder when you want to check original examples, diagrams, or exact wording.
 
@@ -25,9 +25,8 @@ Use this folder when you want to check original examples, diagrams, or exact wor
 Contains supporting notes and source references.
 
 Key file:
-- [00 - Source Index.md](<CS/Y1S2/Databases/Revision Notes/00 - Source Index.md>)
+- [00 - Source Index.md](<Revision Notes/00 - Source Index.md>)
 
-### [Exam and Revision](<Exam and Revision>)
 
 Space for practice questions, past papers, coursework guidance, or exam-specific material.
 

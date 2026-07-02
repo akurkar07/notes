@@ -1,4 +1,4 @@
-﻿# Guitar
+# Guitar
 
 Imported from `favourites_06_06_2026.html`.
 
@@ -44,7 +44,6 @@ Imported from `favourites_06_06_2026.html`.
 
 ### Grade 7 Pieces
 
-- [[Pieces/Bagatelle No.2|Bagatelle No.2]]
 - [[Pieces/Bolero|Bolero]]
 - [[Pieces/Forgotten|Forgotten]]
 - [[Pieces/Halcyon Days|Halcyon Days]]
@@ -75,13 +74,11 @@ Imported from `favourites_06_06_2026.html`.
 
 - [[Pieces/Aruarian Dance|Aruarian Dance]]
 - [[Pieces/Asturias|Asturias]]
-- [[Pieces/Bagatelle No.2|Bagatelle No.2]]
 - [[Pieces/Bloodstream|Bloodstream]]
 - [[Pieces/Canco del Lladre|Canco del Lladre]]
 - [[Pieces/Dust In The Wind|Dust In The Wind]]
 - [[Pieces/Gran Vals|Gran Vals]]
 - [[Pieces/Granada|Granada]]
-- [[Pieces/Gymnopedie No. 1|Gymnopedie No. 1]]
 - [[Pieces/Levels|Levels]]
 - [[Pieces/Misionera|Misionera]]
 - [[Pieces/Romanza|Romanza]]

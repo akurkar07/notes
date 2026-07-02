@@ -6,4 +6,4 @@
 
 ## Navigation
 
-- [[CS/Y1S2/Linear Algebra/Index|Linear Algebra Index]]
+- [[CS/Y1S2/Linear Algebra/README|Linear Algebra README]]

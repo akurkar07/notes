@@ -1,8 +1,8 @@
-﻿# Music
+# Music
 
 ## Areas
 
-- [[Guitar/Index|Guitar]]
+- [[Guitar/README|Guitar]]
 
 ## Local Sheet Music
 

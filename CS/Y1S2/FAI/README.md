@@ -25,17 +25,11 @@
 - [[16 What Next.pdf]]
 
 Archive:
-- [[1008presentations.zip]]
 
 Previous PowerPoint exports are preserved in `Lecture Slides - Previous Exports`.
 
 ## Revision Notes
 
-- [[01 AI Basics]]
-- [[02 Machine Learning]]
-- [[03 Intelligent Systems]]
-- [[04 Search Techniques]]
-- [[05 Game Playing]]
 
 ## Source Slides
 
