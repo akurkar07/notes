@@ -1,3 +1,0 @@
-# Proctor & Gamble Virtual Insight Week - James Espinosa
-
-Will update soon...
