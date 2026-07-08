@@ -1,6 +1,6 @@
 ## CSList
 
-- Full-stack Developer Internship — Classroom 42
+- Full-stack Developer Internship — Classroom 42 (i wonder who bagged this hehe)
 
 - Business Analyst/Data Scientist — Datagum
 
@@ -8,7 +8,7 @@
 
 - Software Development Intern — Convergence
 
-- AI Software and Data Engineering Intern — Anteam Ltd
+- AI Software and Data Engineering Intern — Anteam Ltd (my boy ashim rana bagged this)
 
 - Ecommerce Website Developer Intern — RatMally Ltd
 
