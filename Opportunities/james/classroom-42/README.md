@@ -18,3 +18,13 @@ If you are a first year student, it is entirely possible. I got questioned on my
 Getting an internship in your first year also comes down to cold emailing on LinkedIn and/or Twitter.
 
 Further on they would allow me to ask questions about them.
+
+## Week 1
+
+Onboarding session - Friday
+
+Monday - invited to the GitHub repo & look at massive codebase and start freaking out and feel cooked
+
+Tuesday - almost delete entire company database
+
+Wednesday - start using AI to code responsibly (lol)
